@@ -29,7 +29,7 @@ const wavesurfer = WaveSurfer.create({
     height: 80,
     cursorWidth: 0,
     Response: true,
-    url: './assets/music/the-lonely-tree.mp3',
+    url: './assets/music/Pixies-Where-Is-My-Mind.mp3',
 })
 
 wavesurfer.on('interaction', ()=> {
